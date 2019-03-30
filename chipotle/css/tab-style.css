@@ -1,0 +1,281 @@
+@media only screen and (min-width:768px) and (max-width:1023px)
+{
+    body
+    {
+        width: 100%;
+    }
+    .main-header-1
+    {
+        width: 100%
+    }
+    .mh1-con
+    {
+        margin: 0 290px;
+    }
+    .mh2-logo
+    {
+        margin: 0 5px;
+    }
+    .mh2-logo
+    img
+    {
+        width: 50px;
+    }
+    .mh2-title
+    {
+        display: none;
+    }
+    .mh2-icon
+    {
+        display: block;
+        padding : 0;
+        margin: 20px 10px;
+    }
+    .mh2-button
+    button
+    {
+        margin-top : 10px;
+    }
+    .mh2-button
+    {
+        margin-left: 460px;
+    }
+    .mbc-1-small-con
+    {
+        margin: 0 auto;
+        padding: 300px 100px 28px 190px;
+    }
+    .mbc-1-sc-b1-1
+    {
+        display: block;
+        background-color: #ad2118;
+        width: 190px;
+        height: 50px;
+        margin: 30px 0;
+    }
+    .mbc-1-sc-b1-1
+    h3
+    {
+        color: white;
+    }
+    .mbc-1-sc-b1
+    {
+        display: none;
+    }
+    .mbc-2-small-con
+    {
+        margin: 0 180px;
+        text-align: center;
+    }
+    .mbc-2-small-con
+    p
+    {
+        font-size: 30px;
+        width: 440px;
+    }
+    .main-body-con-3-1
+    {
+        display: flex;
+    }
+    .mbc-3-small-con-1
+    {
+        display: flex;
+        margin-left: 20px;
+    }
+    .mbc-3-sc-left-1,.mbc-3-sc-right-1
+    {
+        width: 300px;
+        border: 1px solid;
+        margin: 20px 30px 60px 30px;
+        padding-bottom: 20px;
+    }
+    .mbc-3-le-bottom-1,.mbc-3-ri-bottom-1
+    {
+        margin: 0 25px;
+    }
+    .mbc-3-le-top-1
+    img
+    {
+        width: 300px;
+        height: 188px;
+    }
+    .mbc-3-ri-top-1
+    img
+    {
+        width: 300px;
+        height: 188px;
+    }
+    .mbc-3-le-header-1
+    p
+    {
+        font-size: 25px;
+        font-weight: bolder;
+        color: #451400;
+    }
+    .mbc-3-ri-bt-header-1
+    p
+    {
+        font-size: 25px;
+        font-weight: bolder;
+        color: #451400;
+    }
+    .mbc-3-le-bt-text-1,.mbc-3-ri-bt-text-1
+    {
+        width: 250px;
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .mbc-3-le-bt-button-1
+    button
+    {
+        width: 250px;
+    }
+    .mbc-3-ri-bt-button-1
+    button
+    {
+        width: 250px;
+    }
+    .mbc-4-small-con
+    {
+        margin: 0 auto;
+        width: 660px;
+    }
+    .mbc-4-sc-button
+    button
+    {
+        width: 90%;
+    }
+    .mbc-5-small-con
+    {
+        margin-left: 20px;
+        /* padding-left: 40px; */
+    }
+    .mbc-5-sc-left,.mbc-5-sc-right
+    {
+        width: 300px;
+        margin: 0 30px;
+    }
+    .mbc-5-le-top,.mbc-5-ri-top
+    {
+        width: 300px;
+        background-position: 50%;
+    }
+    .mbc-5-le-top
+    p
+    {
+        padding: 60px 0;
+    }
+    .mbc-5-ri-top
+    p
+    {
+        padding: 60px 0;
+    }
+    .mbc-5-le-bt-text,.mbc-5-ri-bt-text
+    {
+        width: 250px;
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .mbc-5-le-bt-button,.mbc-5-ri-bt-button
+    {
+        width: 230px;
+        margin: 50px 35px; 
+    }
+    .mbc-5-le-bt-button
+    button
+    {
+        width: 230px;
+    }
+    .mbc-5-ri-bt-button
+    button
+    {
+        width: 230px;
+    }
+    .mfc-1-small-con
+    {
+        margin: 0 40px;
+        padding: 0;
+    }
+    .mfc-1
+    {
+        margin: 0 10px;
+        padding-top: 20px;
+        display: block;
+    }
+    .mfc-2
+    {
+        margin: 0 55px;
+        display: block;
+    }
+    .b1-bt-left
+    {
+        margin-right: 300px;
+    }
+    .mfc-3
+    {
+        margin: 0 55px;
+        white-space: nowrap;
+        display: block;
+    }
+    .mfc-3-left
+    {
+        line-height: 30px;
+    }
+    .mfc-3-right
+    {
+        display: none;
+    }
+    .mfc-3-right-1
+    {
+        display: flex;
+    }
+    .mfc-3-ri-text-1
+    a
+    {
+        display: block;
+        font-size: 10px;
+        font-weight: bolder;
+        margin-right: 350px;
+        line-height: 30px;
+    }
+    .mfc-3-ri-text-2
+    a
+    {
+        display: block;
+        font-size: 10px;
+        font-weight: bolder;
+        line-height: 30px;
+    }
+    .mbc-3-sc-left-left,
+    .mbc-3-sc-left-right,
+    .mbc-3-sc-left,
+    .mbc-3-sc-right-left,
+    .mbc-3-sc-right-right,
+    .mbc-3-sc-right,
+    .mbc-3-small-con,
+    .main-body-con-3,
+    .mfc-2-b1-1
+    {
+        display: none;
+    }
+    .mbc-3-sc-le-le-header,
+    .mbc-3-sc-le-le-text,
+    .mbc-3-sc-ri-le-header,
+    .mbc-3-sc-ri-le-text
+    p
+    {
+        display: none;
+    }
+    .mbc-3-sc-le-le-button,
+    .mbc-3-sc-ri-le-button
+    button
+    {
+        display: none;
+    }
+    .mbc-3-sc-left-right,
+    .mbc-3-sc-right-right
+    img
+    {
+        display: none;
+    }
+} 
