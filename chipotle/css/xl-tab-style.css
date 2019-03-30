@@ -1,0 +1,162 @@
+@media only screen and (min-width:1024px) and (max-width:1440px)
+{
+    body
+    {
+        width: 100%;
+    }
+    .main-header-1
+    {
+        width: 100%
+    }
+    .mh1-con
+    {
+        margin: 0 390px;
+    }
+    .mh2-logo
+    {
+        margin: 0 30px;
+    }
+    .mh2-title
+    {
+        margin: 0 20px;
+    }
+    .mh2-title-small
+    h2
+    {
+        font-size: 20px;
+    }
+    .mh2-button
+    {
+        margin: 0 30px;
+    }
+    .main-body-con-1
+    {
+        background-size: contain;
+    }
+    .mbc-1-small-con
+    {
+        margin: 0 auto;
+        padding: 350px 265px 38px 265px;
+    }
+    .mbc-2-small-con
+    {
+        margin: 0 250px;
+        text-align: center;
+    }
+    .mbc-2-small-con
+    p
+    {
+        font-size: 40px;
+        width: 550px;
+    }
+    .mbc-3-small-con
+    {
+        margin: 60px 10px;
+    }
+    .mbc-3-sc-left,.mbc-3-sc-right
+    {
+        width: 480px;
+        margin: 0 10px;
+    }
+    .mbc-3-sc-left-left,.mbc-3-sc-right-left
+    {
+        padding: 20px 20px;
+        width: 224px;
+    }
+    .mbc-3-sc-le-le-header,.mbc-3-sc-le-le-text,
+    .mbc-3-sc-ri-le-header,
+    .mbc-3-sc-ri-le-text
+    {
+        width: 190px;
+    }
+    .mbc-3-sc-le-le-button,.mbc-3-sc-ri-le-button
+    {
+        margin-top: 50px;
+        width: 190px;
+    }
+    .mbc-3-sc-le-le-button
+    button
+    {
+        width: 190px;
+    }
+    .mbc-3-sc-ri-le-button
+    button
+    {
+        width: 190px;
+    }
+    .mbc-3-sc-left-right
+    img
+    {
+        width: 244px;
+    }
+    .mbc-3-sc-right-right
+    img
+    {
+        width: 244px;
+    }
+    .mbc-4-small-con
+    {
+        margin: 0 auto;
+        width: 660px;
+    }
+    .mbc-5-small-con
+    {
+        margin: 0 auto;
+        padding-left: 40px;
+    }
+    .mbc-5-sc-left,.mbc-5-sc-right
+    {
+        width: 440px;
+        margin: 0 15px;
+    }
+    .mbc-5-le-top,.mbc-5-ri-top
+    {
+        background-size: contain;
+        width: 440px;
+    }
+    .mbc-5-le-top
+    p
+    {
+        padding: 40px 0;
+    }
+    .mbc-5-ri-top
+    p
+    {
+        padding: 40px 0;
+    }
+    .mbc-5-le-bt-text,.mbc-5-ri-bt-text
+    {
+        width: 370px;
+    }
+    .mbc-5-le-bt-button,.mbc-5-ri-bt-button
+    {
+        width: 300px;
+        margin: 50px 45px; 
+    }
+    .mfc-1-small-con
+    {
+        margin: 0 40px;
+        padding: 0;
+    }
+    .mfc-1
+    {
+        margin: 0 20px;
+    }
+    .mfc-2
+    {
+        margin: 0 55px;
+    }
+    .mfc-3
+    {
+        margin: 0 55px;
+        white-space: nowrap;
+    }
+    .mh2-icon,.mfc-3-right-1,
+    .main-body-con-3-1,
+    .mbc-1-sc-b1-1,
+    .mfc-2-b1-1
+    {
+        display: none;
+    }
+    
+} 

@@ -1,0 +1,215 @@
+html,body
+{
+    overflow-x: hidden;
+}
+body
+{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.main-header
+{
+    background-color: #961326;
+}
+.main-header-con
+{
+    margin: 0 120px;
+    display: flex;
+}
+.logo
+{
+    width: 140px;
+}
+.mhc-left
+{
+    padding: 20px;
+}
+.mhc-right
+{
+    display: flex;
+    margin-left: 350px;
+}
+.mhc-text
+{
+    color: white;
+    font-weight: bolder;
+}
+.mhc-text-1
+{
+    color: rgba(255,255,255,.5);
+    margin: 0 3px;
+}
+.mhc-ri-ri
+button
+{
+    background-color: black;
+    height: 60px;
+    width: 120px;
+    border: none;
+    margin: 0 5px;
+}
+.mhc-ri-ri
+a
+{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 15px;
+}
+.mhc-ri-le
+{
+    display: flex;
+    float: left;
+    margin: 15px 0;
+}
+.mhc-ri-ri
+{
+    display: flex;
+    float: left;
+    margin: 10px 0;
+}
+.main-body
+{
+    margin: 0;
+    padding: 0;
+}
+.main-body-con-1
+{
+    background-image: url(../res/img/HeroTruck-Freightliner-Zoom.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.mbc-1-small-con
+{
+    width: 470px;
+    margin: 0px 520px;
+    padding-top: 180px;
+}
+.mbc-1-t1
+{
+    width: 260px;
+    margin: 0 auto;
+    color: white;
+    font-size: 40px;
+    text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+}
+.mbc-1-t3
+{
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-size: 40px;
+    text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+}
+.mbc-1-t2
+{
+    width: 300px;
+    margin: 0 auto;
+    color: white;
+    font-size: 100px;
+    text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+}
+.mbc-1-t4
+{
+    width: 360px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-size: 25px;
+    text-shadow: 0px 0px 95px #000, 0px 0px 5px #000;
+}
+.mbc-1-line
+{
+    border-top: 4px solid  rgba(255,255,255,.5);
+    width: 160px;
+    margin: 20px 155px;
+}
+.mbc-1-btn1
+{
+    margin: 0 5px;
+    width: 160px;
+    height: 45px;
+    background: none;
+    border: 2px solid white;
+}
+.mbc-1-button
+{
+    margin : 25px 60px;
+}
+.mbc-1-button
+a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+.mbc-1-btn2
+{
+    margin: 0 5px;
+    width: 160px;
+    height: 45px;
+    background: #961326;
+    border: none;
+}
+.mbc-2-small-con
+{
+    display: flex;
+    margin: 0 600px;
+    width: 300px;
+}
+.mbc-2-line
+{
+    width: 20px;
+    border-top: 2px solid #961326;
+    margin: 30px 15px;
+}
+.mbc-2-text
+p
+{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.mbc-3-box-1
+{
+    width: 315px;
+    height: auto;
+    position: relative;
+}
+.mbc-3-img
+img
+{
+    width: 290px;
+}
+.mbc-3-img
+{
+    margin: 0 20px;
+    display: inherit ;
+}
+/* .mbc-3-btn
+{
+    width: 380px;
+    height: 38px;
+} */
+.mbc-3-btn button
+{
+    width: 380px;
+    background: #961326;
+    height: 38px;
+    border: none;
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+.mbc-3-btn
+a
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 16px;
+    text-decoration: none;
+}

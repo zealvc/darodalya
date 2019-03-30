@@ -1,0 +1,551 @@
+html,body
+{
+    overflow-x: hidden;
+}
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+.main-header-1
+{
+    width: 100%;
+    /* height: 80px; */
+    background-color: #451400;
+}
+.mh1-con
+{
+    display: flex;
+    width: 250px;
+    margin-left: 680px;
+    padding-top:10px; 
+}
+.mh1-text
+{
+    color: white;
+}
+.mh1-icon
+{
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.main-header-2
+{
+    width: 100%;
+    /* height: 90px; */
+    margin: 0 auto;
+    padding: 0;
+}
+.mh2-con
+{
+    display: flex;
+    width: 1000px;
+    /* height: 90px; */
+}
+.mh2-logo
+{
+    padding: 5px 0;
+    margin-left:30px;
+    margin-right: 310px;
+
+}
+.mh2-title
+{
+    width: 600px;
+    display: flex;
+    padding-top: 8px;
+    margin-right: 250px;
+}
+.mh2-title-small
+{
+    margin-right: 30px;
+    text-decoration: none;
+    color: #451400;
+    white-space: nowrap;
+}
+.mh2-button
+{
+    margin-left: 40px;
+}
+.mh2-button
+button
+{
+    display: flex;
+    width: 185px;
+    /* height: 40px; */
+    margin-top: 25px;
+    background: #451400;
+    border-radius: 3em;
+    border: none;
+}
+.mh2-btn-logo
+img
+{
+    margin-left: 6px;
+}
+.mh2-btn-logo
+{
+    margin-top: 2px;
+    border-right: 1px solid white;
+}
+.mh2-btn-link 
+{
+    text-decoration: none;
+    padding: 8px 10px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+.mh2-btn-link a 
+{
+    text-decoration: none;
+    color: white;
+}
+.main-body-con-1
+{
+    width: 100%;
+    /* height: 600px; */
+    background-image: url(../res/img/Home-Page-Hero-Desktop-White\ Rewardsv2@2x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 1px solid #976500;
+}
+.mbc-1-small-con
+{
+    margin-left: 550px;
+    padding-top: 510px;
+    display: flex;
+}
+.mbc-1-sc-b1
+{
+    width: 290px;
+    height: 50px;
+    background-color: #ad2118;
+    border: none;
+    color: white;
+    margin: 30px 0;
+}
+.mbc-1-sc-b2
+{
+    width: 190px;
+    height: 50px;
+    display: flex;
+    background-color: #88120a;
+    border: none;
+    margin: 30px 0;
+}
+.mbc-1-sc-b2-text
+{
+    margin-left: 23px;
+}
+.mbc-1-sc-b2-text
+a
+{
+    text-decoration: none;
+    color: white;
+}
+.mbc-1-sc-b2-icon
+{
+    color: white;
+    margin-left: 20px;
+    padding-top: 18px;
+}
+.main-body-con-2
+{
+    width: 100%;
+    /* height: 210px; */
+    background-image: url(../res/img/background-image-what-should-i-eat@3x_cropped\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 1px solid #976500;
+}
+.mbc-2-small-con
+{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 140px;
+    padding: 20px 0;
+    width: 1240px;
+}
+.mbc-2-small-con 
+p
+{
+    width: 1240px;
+    background-color: #f7f2ed;
+    color: #451400;
+}
+
+.main-body-con-3
+{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    height: 480px;
+}
+.mbc-3-small-con
+{
+    width: 1110px;
+    height: 386px;
+    display: flex;
+    margin: 60px 160px;
+}
+.mbc-3-sc-left,.mbc-3-sc-right
+{
+    width: 555px;
+    height: 386px;
+    display: flex;
+    border: 1px solid #976500;
+    margin: 0 20px;
+}
+.mbc-3-sc-left-left,.mbc-3-sc-right-left
+{
+    width: 276px;
+    height: 386px;
+    padding : 20px 35px;
+}
+.mbc-3-sc-left-right,.mbc-3-sc-right-right
+{
+    width: 276px;
+    height: 386px;
+}
+.mbc-3-sc-le-le-header
+p
+{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #451400;
+    margin: 0 auto; 
+}
+.mbc-3-sc-ri-le-header
+p
+{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #451400;
+    margin: 0 auto;
+}
+.mbc-3-sc-le-le-button
+{
+    margin-top: 80px;
+}
+.mbc-3-sc-ri-le-button
+{
+    margin-top: 58px;
+}
+.mbc-3-sc-le-le-button
+button
+{
+    width: 210px;
+    /* height: 35px; */
+    background-color: #451400;
+    border: none;
+    text-align: center;
+}
+.mbc-3-sc-ri-le-button
+button
+{
+    width: 210px;
+    /* height: 35px; */
+    background-color: #451400;
+    border: none;
+    text-align: center; 
+}
+.mbc-3-sc-le-le-button,.mbc-3-sc-ri-le-button,
+a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+.main-body-con-4
+{
+    width: 100%;
+    /* height: 858px; */
+    padding: 0;
+}
+.mbc-4-small-con
+{
+    width: 1170px;
+    /* height: 858px; */
+    margin: 0 170px;
+}
+.mbc-4-sc-header
+h1
+{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    color: #451400;
+    margin: 0 auto;
+}
+.mbc-4-sc-logo,.mbc-4-sc-img,.mbc-4-sc-button
+{
+    text-align: center;
+}
+.mbc-4-sc-long-text
+{
+    text-align: center;
+    font-weight: bolder;
+    color: #451400;
+}
+.mbc-4-sc-short-text
+{
+    text-align: center;
+    color: #451400;
+}
+.mbc-4-sc-button
+button
+{
+    background: none;
+    border: 2px solid #451400;
+    width: 260px;
+    /* height: 40px; */
+}
+.mbc-4-sc-button
+a
+{
+    text-decoration: none;
+    color: #451400;
+    font-size: 15px;
+}
+.main-body-con-5
+{
+    width: 100%;
+    /* height: 490px; */
+    margin-top: 60px;
+    padding: 0;
+}
+.mbc-5-small-con
+{
+    width: 1170px;
+    /* height: 490px; */
+    display: flex;
+    margin-left: 190px;
+}
+.mbc-5-sc-left,.mbc-5-sc-right
+{
+    width: 522px;
+    /* height: 416px; */
+    border: 1px solid #976500;
+    text-align: center;
+    margin: 0 20px;
+}
+.mbc-5-le-top
+{
+    width: 522px;
+    height: 188px;
+    background-image: url(../res/img/group-10@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mbc-5-le-top
+p
+{
+    margin: 0 auto;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 70px;
+}
+.mbc-5-le-bottom,.mbc-5-ri-bottom
+{
+    width: 522px;
+    height: 229px;
+}
+.mbc-5-le-bt-text,.mbc-5-ri-bt-text
+{
+    width: 500px;
+    height: 90px;
+    text-align: left;
+    margin-left: 30px;
+}
+.mbc-5-le-bt-button,.mbc-5-ri-bt-button
+{
+    width: 522px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.mbc-5-le-bt-button,.mbc-5-ri-bt-button,
+button
+{
+    width: 350px;
+    height: 40px;
+    background-color: #451400;
+    border: none;
+}
+.mbc-5-ri-top
+{
+    width: 522px;
+    height: 188px;
+    background-image: url(../res/img/group-12@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.mbc-5-ri-top
+p
+{
+    margin: 0 auto;
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 70px;
+}
+.main-footer
+{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+.main-footer-con-1
+{
+    width: 100%;
+    /* height: 90px; */
+    margin-top: 60px;
+    padding: 0;
+    background-color: #786259;
+}
+.mfc-1-small-con
+{
+    width: 1170px;
+    /* height: 60px; */
+    display: flex;
+    /* padding-top: 15px; */
+    margin: 0 190px;
+    padding: 10px 90px;
+}
+.mfc-1-logo
+{
+    margin: 0 15px;
+}
+.mfc-1-text
+{
+    margin: 0 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+.mfc-1-text-border
+button
+{
+    width: 320px;
+    height: 28px;
+    display: flex;
+    margin: 15px 15px;
+    background-color: #786259;
+    border-bottom: 1px solid white;
+    padding: 0;
+}
+.button-text
+{
+    margin: 8px 0;
+    font-size: 17px;
+    color: white
+}
+.fas.fa-search
+{
+    color: white;
+    margin-top: 8px;
+    margin-left: 80px;
+}
+.main-footer-con-2
+{
+    background-color: #1b0800;
+}
+.mfc-1
+{
+    display: flex;
+    margin: 0 230px;
+}
+.mfc-1-header
+{
+    color: white;
+    font-weight: bolder;
+    margin: 0 45px;
+}
+.mfc-2
+{
+    display: flex;
+    margin: 0 280px;
+}
+.mfc-2-b1,.mfc-2-b2,.mfc-2-b3
+{
+    margin-right: 60px;
+}
+.mfc-2-b1-top,.mfc-2-b2-top,.mfc-2-b3-top
+{
+    color: #dfd9d3;
+    margin: 0;
+    font-weight: bolder;
+    white-space: nowrap;
+}
+.mfc-2-b1-bottom
+{
+    display: flex;
+}
+.b1-bt-left
+{
+    margin-right : 80px;
+}
+.b1-bt-left
+p
+{
+    color: white;
+    white-space: nowrap;
+    font-size: 12px;
+}
+.b1-bt-right
+p
+{
+    color: white;
+    white-space: nowrap;
+    font-size: 12px;
+}
+.mfc-2-b2-bottom,.mfc-2-b3-bottom
+{
+    display: flex;
+
+}
+.mfc-2-b2-bottom
+img
+{
+    margin-right: 30px;
+}
+.mfc-2-b3-bottom
+img
+{
+    margin-right: 20px;
+}
+.mfc-3
+{
+    display: flex;
+    margin: 0 280px;
+    padding: 30px 0;
+}
+.mfc-3-left
+a
+{
+    font-size: 10px;
+}
+.mfc-3-right
+{
+    display: flex;
+    margin-left: 270px;
+}
+.mfc-3-ri-text
+{
+    margin-right: 20px;
+}
+.mfc-3-ri-text
+a
+{
+    font-size: 10px;
+}
+.mh2-icon,.mfc-3-right-1,
+.main-body-con-3-1,
+.mbc-1-sc-b1-1,
+.mfc-2-b1-1
+{
+    display: none;
+}
+
